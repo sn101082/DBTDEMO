@@ -1,0 +1,11 @@
+demo_project:
+  outputs:
+    dev:
+      catalog: null
+      host: adb-604727183774862.2.azuredatabricks.net
+      http_path: sql/protocolv1/o/604727183774862/1208-081948-1any7onp
+      schema: test1
+      threads: 1
+      token: dapida2700990faa6af0f2892bbc630a3bfa
+      type: databricks
+  target: dev
