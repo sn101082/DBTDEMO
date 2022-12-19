@@ -1,4 +1,4 @@
-demo_project:
+jaffle_shop:
   outputs:
     dev:
       catalog: null
